@@ -1,0 +1,19 @@
+# Arduino files to ignore
+*.bin
+*.elf
+*.hex
+*.pyc
+*.d
+*.dep
+*.o
+*.a
+*.gcda
+*.gcno
+*.sym
+*.lst
+*.map
+
+# VS Code hidden folders if using PlatformIO
+.vscode/
+.pio/
+build/
